@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on [@tarikjabiri/dxf](https://www.npmjs.com/package/@tarikjabiri/dxf).
 - 💬 Ask me about [dxf ](https://help.autodesk.com/view/OARX/2023/ENU/?guid=GUID-235B22E0-A567-4CF6-92D3-38A2306D73F3)stuff.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarikjabiri)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **tarikjabiri/tarikjabiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
